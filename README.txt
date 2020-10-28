@@ -1,4 +1,14 @@
 The repository contains the data used in an analysis of an expert elicitation survey. 
+The paper and the data differ slightlyt in their abbreviation of the typologies. 
+For clarity we have provided both sets here.
+|Typology           |Construction Era|Paper Abbreviation|Data Abbreviation|
+-------------------- ---------------- ------------------ -----------------
+|Craftsman          |    1910-1930   |        CR        |      GWH        |
+|Mid-century Builder|    1935-1964   |        MC        |       MP        |
+|Vancouver Special  |    1965-1984   |        VS        |       VS        |
+|Millennium Builder |    1985-2009   |        MB        |       SB        |
+|West Coast Modern  |   2010-Present |        WC        |       WC        |
+
 File details:
 01_final_narrative_elements_text: The text values used to construct the survey narratives (representative constructions).
 02_response_dataset_raw_numeric: The raw response data from the surveys. 
