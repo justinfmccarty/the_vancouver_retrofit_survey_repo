@@ -25,3 +25,4 @@ For clarity we have provided both sets here.
 |West Coast Modern  |   2010-Present |        WC        |       WC        |
 
 
+[![DOI](https://zenodo.org/badge/307532726.svg)](https://zenodo.org/badge/latestdoi/307532726)
