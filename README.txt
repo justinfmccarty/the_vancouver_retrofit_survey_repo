@@ -1,6 +1,6 @@
 Hello! Thank you for taking the time to access this repostory.
 
-Inside you will find data used in an analysis of an expert elicitation survey discussed in the following publication (Currently in review and not accesible by DOI): https://doi.org/10.5334/bc.85
+Inside you will find data used in an analysis of an expert elicitation survey discussed in the following publication (The paper is currently in review and not accesible by DOI): https://doi.org/10.5334/bc.85
 
 We invite use of the data for future studies. Please contact us with any questions.
 
@@ -17,7 +17,7 @@ File details:
 One housekeeping note:
 The paper and the data differ slightly in their abbreviation of the typologies. 
 For clarity we have provided both sets here.
-|Typology           |Construction Era|Paper Abbreviation|Data Abbreviation|
+|      Typology     |Construction Era|Paper Abbreviation|Data Abbreviation|
 -------------------- ---------------- ------------------ -----------------
 |Craftsman          |    1910-1930   |        CR        |      GWH        |
 |Mid-century Builder|    1935-1964   |        MC        |       MP        |
