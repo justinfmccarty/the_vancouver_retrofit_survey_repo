@@ -26,4 +26,4 @@ For clarity we have provided both sets here.
 |West Coast Modern  |   2010-Present |        WC        |       WC        |
 
 
-For citation go here: http://doi.org/10.5281/zenodo.4606597
+For dataset citation go here: http://doi.org/10.5281/zenodo.4606597
