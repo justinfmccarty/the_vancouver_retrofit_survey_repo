@@ -11,7 +11,7 @@ File details:
 - 04_survey_analysis_dataset: The final dataset comrpsiing of narrative values and narrative repsonses used for analysis.
 - 05_variable_response_encoding: A guide to the relationship between text and numeric values.
 - 06_policy_updates: Desscribes how the policy choices were categorized.
-- 07_dataset_processing+encoding: A python notebook used for processing the raw data. 
+- 07_dataset_processing+encoding: A python notebook used for processing the raw data and the creation of "04_survey_analysis_dataset". We recommend opening this in Google Colab for the best experience.
 - responses removed: A note on the responses removed from the raw analysis dataset due to missing answers or not meeting necessary "expert" qualifications.
 
 One housekeeping note:
