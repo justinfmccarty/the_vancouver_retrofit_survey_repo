@@ -1,6 +1,6 @@
 Hello! Thank you for taking the time to access this repostory.
 
-Inside you will find data used in an analysis of an expert elicitation survey discussed in the following publication: https://doi.org/10.5334/bc.85
+Inside you will find data used in an analysis of an expert elicitation survey discussed in the following publication (Currently in review and not accesible by DOI): https://doi.org/10.5334/bc.85
 
 We invite use of the data for future studies. Please contact us with any questions.
 
